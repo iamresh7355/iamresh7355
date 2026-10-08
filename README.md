@@ -115,7 +115,7 @@ Practice programs and problem-solving solutions using Java.
     LinkedIn
   </a>
   |
-  <a href="https://www.instagram.com/amresh_7355/">
+  <a href="https://www.instagram.com/amresh__7355/">
     Instagram
   </a>
 </p>
